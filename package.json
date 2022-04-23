@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Firuz43/Nodejs/issues"
   },
-  "homepage": "https://github.com/Firuz43/Nodejs#readme"
+  "homepage": "https://github.com/Firuz43/Nodejs#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }

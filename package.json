@@ -18,10 +18,8 @@
   },
   "homepage": "https://github.com/Firuz43/Nodejs#readme",
   "dependencies": {
-<<<<<<< HEAD
     "express": "^4.17.3",
-=======
->>>>>>> bf18bab61cd89520b5fdebfa2059f1edb4036a54
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.15"
   }
 }
